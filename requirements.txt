@@ -1,4 +1,4 @@
 pytest
-allure-python-commons
+allure-pytest
 selenium
 
