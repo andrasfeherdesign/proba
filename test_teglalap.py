@@ -66,3 +66,4 @@ class TestRectangle():
         button_calc = self.browser.find_element(By.ID, 'submit')
         button_calc.click()
         assert self.browser.find_element(By.ID, 'result').text == 'NaN'
+       
